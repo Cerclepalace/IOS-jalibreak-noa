@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>NSBluetoothAlwaysUsageDescription</key><string>SEC-iOS uses Bluetooth to observe nearby BLE devices for security analysis.</string>
+<key>NSLocalNetworkUsageDescription</key><string>SEC-iOS uses the local network to inventory observable devices and services.</string>
+</dict></plist>
